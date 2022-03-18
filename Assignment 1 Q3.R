@@ -16,10 +16,6 @@ class(Sales_Data$Product_ID)
 
 str(Sales_Data)
 
-#reformat to 3 digits for Product_ID
-  
-
-#Reformat product ID to be all the same length (3 digits)
+#Confirm length of rows & no blanks 
 
 #remove rows without datapoints for column sales_16 & sales_17
-i
